@@ -1,3 +1,4 @@
+D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\ApplicationInsights.config
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\TeduShop.Web.Tests.dll.config
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\TeduShop.Web.Tests.dll
@@ -13,7 +14,6 @@ D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\roslyn\Microsoft.CodeAnalysis.CSh
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\roslyn\Microsoft.CSharp.Core.targets
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
@@ -92,7 +92,6 @@ D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\Microsoft.AI.DependencyCollector.
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\Microsoft.AI.WindowsServer.xml
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\Microsoft.AI.Web.xml
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\visual 2013\TeduShop\TeduShop.Web.Tests\obj\Debug\TeduShop.Web.Tests.csprojAssemblyReference.cache
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\obj\Debug\TeduShop.Web.Tests.csproj.CoreCompileInputs.cache
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\obj\Debug\TeduShop.Web.Tests.csproj.CopyComplete
 D:\visual 2013\TeduShop\TeduShop.Web.Tests\obj\Debug\TeduShop.Web.Tests.dll

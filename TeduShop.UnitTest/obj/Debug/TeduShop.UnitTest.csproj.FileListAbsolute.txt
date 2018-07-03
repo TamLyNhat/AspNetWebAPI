@@ -6,9 +6,6 @@ D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.pdb
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Tedu.Data.dll
-D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Tedu.Model.dll
-D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Tedu.Service.dll
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Common.dll
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Web.dll
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Optimization.dll
@@ -22,11 +19,6 @@ D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Razor.dll
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.dll
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
-D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Tedu.Data.pdb
-D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Tedu.Data.dll.config
-D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Tedu.Model.pdb
-D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Tedu.Model.dll.config
-D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\Tedu.Service.pdb
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Common.pdb
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Common.dll.config
 D:\visual 2013\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Web.pdb

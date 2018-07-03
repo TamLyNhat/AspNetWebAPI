@@ -75,16 +75,8 @@ D:\visual 2013\TeduShop\TeduShop.Web\bin\System.Web.Razor.dll
 D:\visual 2013\TeduShop\TeduShop.Web\bin\System.Web.WebPages.Deployment.dll
 D:\visual 2013\TeduShop\TeduShop.Web\bin\System.Web.WebPages.dll
 D:\visual 2013\TeduShop\TeduShop.Web\bin\System.Web.WebPages.Razor.dll
-D:\visual 2013\TeduShop\TeduShop.Web\bin\Tedu.Data.dll
-D:\visual 2013\TeduShop\TeduShop.Web\bin\Tedu.Model.dll
-D:\visual 2013\TeduShop\TeduShop.Web\bin\Tedu.Service.dll
 D:\visual 2013\TeduShop\TeduShop.Web\bin\TeduShop.Common.dll
 D:\visual 2013\TeduShop\TeduShop.Web\bin\WebGrease.dll
-D:\visual 2013\TeduShop\TeduShop.Web\bin\Tedu.Data.pdb
-D:\visual 2013\TeduShop\TeduShop.Web\bin\Tedu.Data.dll.config
-D:\visual 2013\TeduShop\TeduShop.Web\bin\Tedu.Model.pdb
-D:\visual 2013\TeduShop\TeduShop.Web\bin\Tedu.Model.dll.config
-D:\visual 2013\TeduShop\TeduShop.Web\bin\Tedu.Service.pdb
 D:\visual 2013\TeduShop\TeduShop.Web\bin\TeduShop.Common.pdb
 D:\visual 2013\TeduShop\TeduShop.Web\bin\TeduShop.Common.dll.config
 D:\visual 2013\TeduShop\TeduShop.Web\bin\EntityFramework.xml
