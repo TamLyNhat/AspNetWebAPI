@@ -1,0 +1,9 @@
+add-migrations 
+add-migration InitialDB
+update-database
+
+Create new table
+new file in Model => ...DbContext => add-migration Add(name's table)Table => update datable => add Repository
+
+//su dung co che Identity
+add-migration Intergrate-AspnetIdentity

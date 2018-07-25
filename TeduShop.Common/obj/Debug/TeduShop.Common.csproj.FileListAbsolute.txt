@@ -5,6 +5,7 @@ D:\visual 2013\TeduShop\TeduShop.Common\bin\Debug\EntityFramework.dll
 D:\visual 2013\TeduShop\TeduShop.Common\bin\Debug\EntityFramework.SqlServer.dll
 D:\visual 2013\TeduShop\TeduShop.Common\bin\Debug\EntityFramework.xml
 D:\visual 2013\TeduShop\TeduShop.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual 2013\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojAssemblyReference.cache
 D:\visual 2013\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
 D:\visual 2013\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CopyComplete
 D:\visual 2013\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll

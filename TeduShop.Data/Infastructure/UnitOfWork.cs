@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TeduShop.Data.Infastructure;
 
-namespace TeduShop.Data.Infrastructure
+namespace TeduShop.Data.Infastructure
 {
     public class UnitOfWork : IUnitOfWork
     {

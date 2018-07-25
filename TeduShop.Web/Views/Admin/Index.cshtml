@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html ng-app="myModule">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div ng-controller="myController">
+        {{message}}
+    </div>
+
+    <br />
+    <hr />
+
+
+    <div ng-controller="schoolController">
+        <div ng-controller="studentController">
+           In student: {{message}}
+        </div>
+        <div ng-controller="teacherController">
+            In teacher: {{message}}
+        </div>
+
+        From school: {{message}}
+    </div>
+
+    <br />
+    <hr />
+
+    <div ng-controller="DemoController">
+        {{message}}
+        <input type="number" ng-model="num"/>Value of textbox: {{num}}
+        <button ng-click="checkNumber()"> CheckNumber</button>
+        <alexander-directive></alexander-directive>
+        @*<div alexander-directive></div>*@
+    </div>
+
+    <script src="~/Scripts/plugins/bower_components/angular/angular.js"></script>
+    <script src="~/Scripts/spa/app.js"></script>
+</body>
+</html> 
